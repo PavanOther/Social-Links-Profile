@@ -44,8 +44,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ()
-- Live Site URL: ()
+- Solution URL: (https://github.com/PavanOther/Social-Links-Profile)
+- Live Site URL: (https://pavanother.github.io/Social-Links-Profile/)
 
 ## My process
 
